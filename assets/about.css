@@ -1,0 +1,28 @@
+
+.navbar{
+    background-color: transparent;
+    padding: 15px;
+    
+    
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(218, 214, 208);
+    border-radius: 20px;
+    height: 40px;
+}
+ 
+.folder{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    margin-left: right;
+}
+
+.paragraph{
+    align-items: center;
+
+}
+

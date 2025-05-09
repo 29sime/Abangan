@@ -1,0 +1,16 @@
+ body{
+    background: linear-gradient(to right, #5A321A, #b06500);
+}
+
+.thankyou{
+    background-color: white;
+    height: 640px;
+    padding-top: 250px;
+    font-size: xx-large;
+    
+}
+
+.about{
+    background-color: blue;
+}
+
